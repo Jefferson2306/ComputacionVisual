@@ -16,7 +16,7 @@ public class Prueba extends javax.swing.JFrame {
     public Prueba() {
         initComponents();
     }
-
+//modificacion
     private void calcular() {
         String cadena1, cadena2;
         cadena1 = jTextField_Num1.getText();

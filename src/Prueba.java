@@ -16,6 +16,7 @@ public class Prueba extends javax.swing.JFrame {
     public Prueba() {
         initComponents();
     }
+    //cambio
 //modificacion
     private void calcular() {
         String cadena1, cadena2;
